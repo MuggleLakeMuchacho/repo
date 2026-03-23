@@ -1,0 +1,364 @@
+{
+  "languages": [
+    {
+      "fileName": "sq.json",
+      "languageCode": "sq",
+      "displayName": "Albanisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/sq.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "bs.json",
+      "languageCode": "bs",
+      "displayName": "Bosnisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/bs.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "bg.json",
+      "languageCode": "bg",
+      "displayName": "Bulgarisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/bg.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "da.json",
+      "languageCode": "da",
+      "displayName": "Dänisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/da.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "de.json",
+      "languageCode": "de",
+      "displayName": "Deutsch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/de.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "dsb.json",
+      "languageCode": "dsb",
+      "displayName": "Dolnoserbšćina",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/dsb.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "et.json",
+      "languageCode": "et",
+      "displayName": "Eesti",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/et.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "en.json",
+      "languageCode": "en",
+      "displayName": "English",
+      "region": "Nordamerika",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/en.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "es.json",
+      "languageCode": "es",
+      "displayName": "Español",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/es.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "eu.json",
+      "languageCode": "eu",
+      "displayName": "Euskara",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/eu.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "fo.json",
+      "languageCode": "fo",
+      "displayName": "Føroyskt",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/fo.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "fr.json",
+      "languageCode": "fr",
+      "displayName": "Français",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/fr.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "el.json",
+      "languageCode": "el",
+      "displayName": "Griechisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/el.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "hr.json",
+      "languageCode": "hr",
+      "displayName": "Kroatisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/hr.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "hsb.json",
+      "languageCode": "hsb",
+      "displayName": "Hornjoserbsce",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/hsb.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "is.json",
+      "languageCode": "is",
+      "displayName": "Íslenska",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/is.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "ka.json",
+      "languageCode": "ka",
+      "displayName": "Georgisch",
+      "region": "Asien",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/ka.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "lv.json",
+      "languageCode": "lv",
+      "displayName": "Lettisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/lv.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "lt.json",
+      "languageCode": "lt",
+      "displayName": "Litauisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/lt.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "mk.json",
+      "languageCode": "mk",
+      "displayName": "Mazedonisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/mk.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "me.json",
+      "languageCode": "me",
+      "displayName": "Montenegrinisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/me.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "nl.json",
+      "languageCode": "nl",
+      "displayName": "Nederlands",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/nl.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "nb.json",
+      "languageCode": "nb",
+      "displayName": "Norsk (Bokmål)",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/nb.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "pl.json",
+      "languageCode": "pl",
+      "displayName": "Polski",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/pl.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "pt.json",
+      "languageCode": "pt",
+      "displayName": "Português",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/pt.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "ro.json",
+      "languageCode": "ro",
+      "displayName": "Rumänisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/ro.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "ru.json",
+      "languageCode": "ru",
+      "displayName": "Russisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/ru.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "sv.json",
+      "languageCode": "sv",
+      "displayName": "Schwedisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/sv.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "sr.json",
+      "languageCode": "sr",
+      "displayName": "Serbisch (Latein)",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/sr.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "sr-Cyrl.json",
+      "languageCode": "sr-Cyrl",
+      "displayName": "Serbisch (Kyrillisch)",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/sr-Cyrl.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "sk.json",
+      "languageCode": "sk",
+      "displayName": "Slowakisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/sk.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "sl.json",
+      "languageCode": "sl",
+      "displayName": "Slowenisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/sl.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "cs.json",
+      "languageCode": "cs",
+      "displayName": "Tschechisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/cs.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "tr.json",
+      "languageCode": "tr",
+      "displayName": "Türkisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/tr.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "hu.json",
+      "languageCode": "hu",
+      "displayName": "Ungarisch",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/hu.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "ipa.json",
+      "languageCode": "ipa",
+      "displayName": "Phonetics (IPA)",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://example.com/keebswap/ipa.json",
+      "size": "1.2 KB",
+      "fontId": "Europe"
+    }
+  ]
+}
