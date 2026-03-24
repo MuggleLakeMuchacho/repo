@@ -356,8 +356,138 @@
       "displayName": "Phonetics (IPA)",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/ipa.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/ipa.json",
       "size": "1.2 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "math.json",
+      "languageCode": "math",
+      "displayName": "Mathematics",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/math.json",
+      "size": "1.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "chem.json",
+      "languageCode": "chem",
+      "displayName": "Chemistry",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/chem.json",
+      "size": "1.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "phys.json",
+      "languageCode": "phys",
+      "displayName": "Physics",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/phys.json",
+      "size": "1.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "sci.json",
+      "languageCode": "sci",
+      "displayName": "Science",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/sci.json",
+      "size": "2.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "sym.json",
+      "languageCode": "sym",
+      "displayName": "Symbols",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/sym.json",
+      "size": "2.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "power.json",
+      "languageCode": "power",
+      "displayName": "Poweruser",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/power.json",
+      "size": "2.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "etech.json",
+      "languageCode": "etech",
+      "displayName": "Electrotech",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/etech.json",
+      "size": "2.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "code.json",
+      "languageCode": "code",
+      "displayName": "Coding",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/code.json",
+      "size": "2.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "music.json",
+      "languageCode": "music",
+      "displayName": "Music",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/music.json",
+      "size": "1.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "typo.json",
+      "languageCode": "typo",
+      "displayName": "Typography",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/typo.json",
+      "size": "1.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "grc.json",
+      "languageCode": "grc",
+      "displayName": "Ἑλληνικὴ (Polytonisch)",
+      "region": "Others",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/grc.json",
+      "size": "2.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "se.json",
+      "languageCode": "se",
+      "displayName": "Davvisámegiella",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/se.json",
+      "size": "1.5 KB",
+      "fontId": "Europe"
+    },
+    {
+      "fileName": "fo.json",
+      "languageCode": "fo",
+      "displayName": "Føroyskt",
+      "region": "Europa",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/fo.json",
+      "size": "1.5 KB",
       "fontId": "Europe"
     }
   ]
