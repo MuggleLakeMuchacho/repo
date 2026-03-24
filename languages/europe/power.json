@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "languageCode": "power",
+    "languageName": "Poweruser",
+    "speechLocale": "en-US",
+    "region": "Others",
+    "physicalLayout": "standard",
+    "version": "1.0"
+  },
+  "layout": {
+    "q": "q", "w": "w", "e": "e", "r": "r", "t": "t", "y": "y", "u": "u", "i": "i", "o": "o", "p": "p",
+    "a": "a", "s": "s", "d": "d", "f": "f", "g": "g", "h": "h", "j": "j", "k": "k", "l": "l",
+    "z": "z", "x": "x", "c": "c", "v": "v", "b": "b", "n": "n", "m": "m",
+    "at": "@", "comma": ",", "period": "."
+  },
+  "numbers_layout": {
+    "num_1": "1", "num_2": "2", "num_3": "3", "num_4": "4", "num_5": "5",
+    "num_6": "6", "num_7": "7", "num_8": "8", "num_9": "9", "num_0": "0",
+    "num_minus": "-",
+    "num_slash": "/",
+    "num_colon": ":",
+    "num_semicolon": ";",
+    "num_leftparen": "(",
+    "num_rightparen": ")",
+    "num_currency": "$",
+    "num_amp": "&",
+    "num_hash": "#",
+    "num_quote": "\"",
+    "num_degree": "°",
+    "num_percent": "%",
+    "num_greater": ">",
+    "num_exclam": "!",
+    "num_question": "?",
+    "comma": ",",
+    "period": ".",
+    "at": "@"
+  },
+  "longpress": {
+    "q": ["Q"], "w": ["W"], "e": ["E"], "r": ["R"], "t": ["T"], "y": ["Y"],
+    "u": ["U"], "i": ["I"], "o": ["O"], "p": ["P"],
+    "a": ["A"], "s": ["S"], "d": ["D"], "f": ["F"], "g": ["G"],
+    "h": ["H", "←"], "j": ["J", "↓"], "k": ["K", "↑"], "l": ["L", "→"],
+    "z": ["Z"], "x": ["X"], "c": ["C"], "v": ["V"], "b": ["B"], "n": ["N"], "m": ["M"]
+  }
+}

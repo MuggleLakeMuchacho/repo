@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "languageCode": "el",
+    "languageName": "Ελληνικά",
+    "speechLocale": "el-GR",
+    "region": "Europa",
+    "physicalLayout": "standard",
+    "version": "1.0"
+  },
+  "layout": {
+    "q": "ς",
+    "w": "ω",
+    "e": "ε",
+    "r": "ρ",
+    "t": "τ",
+    "y": "υ",
+    "u": "θ",
+    "i": "ι",
+    "o": "ο",
+    "p": "π",
+    "a": "α",
+    "s": "σ",
+    "d": "δ",
+    "f": "φ",
+    "g": "γ",
+    "h": "η",
+    "j": "ξ",
+    "k": "κ",
+    "l": "λ",
+    "z": "ζ",
+    "x": "χ",
+    "c": "ψ",
+    "v": "ω",
+    "b": "β",
+    "n": "ν",
+    "m": "μ",
+    "at": "@",
+    "comma": ",",
+    "period": "."
+  },
+  "numbers_layout": {
+    "num_1": "1", "num_2": "2", "num_3": "3", "num_4": "4", "num_5": "5",
+    "num_6": "6", "num_7": "7", "num_8": "8", "num_9": "9", "num_0": "0",
+    "num_minus": "-", "num_slash": "/", "num_colon": ":", "num_semicolon": ";",
+    "num_leftparen": "(", "num_rightparen": ")", "num_currency": "€",
+    "num_amp": "&", "num_hash": "#", "num_at": "@", "num_quote": "\"", "num_degree": "°",
+    "num_percent": "%", "num_greater": ">", "num_exclam": "!", "num_question": "?",
+    "comma": ",", "period": ".", "at": "@"
+  },
+  "longpress": {
+    "α": ["ά"],
+    "ε": ["έ"],
+    "η": ["ή"],
+    "ι": ["ί", "ϊ"],
+    "ο": ["ό"],
+    "υ": ["ύ", "ϋ"],
+    "ω": ["ώ"],
+    "€": ["$", "£", "¥"]
+  }
+}

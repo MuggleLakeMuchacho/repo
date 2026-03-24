@@ -1,0 +1,18 @@
+{
+  "skins": [
+    {
+      "fileName": "ocean_skin.json",
+      "displayName": "Ocean",
+      "version": "1.0",
+      "downloadUrl": "http://10.0.2.2:8000/ocean_skin.json",
+      "size": "2.5 KB"
+    },
+    {
+      "fileName": "forest_skin.json",
+      "displayName": "Forest",
+      "version": "1.0",
+      "downloadUrl": "http://10.0.2.2:8000/forest_skin.json",
+      "size": "2.3 KB"
+    }
+  ]
+}

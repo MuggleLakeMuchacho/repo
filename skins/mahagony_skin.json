@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "skinName": "Mahagony",
+    "version": "1.0",
+    "author": "KeebSwap"
+  },
+  "colors": {
+    "background": "#2B2B2B",
+    "dot": "#8B5A2B",
+    "layout_name_bg": "#3A2C1A",
+    "layout_name_text": "#E0D6C0",
+    "popup_bg": "#4A3C2A",
+    "popup_text": "#F0E6D0",
+    "categories": {
+      "main": {
+        "normal": "#5D4A34",
+        "pressed": "#4A3A26",
+        "text": "#F5EBD6"
+      },
+      "punct": {
+        "normal": "#4A3C2A",
+        "pressed": "#3A2E1F",
+        "text": "#D4C8B0"
+      },
+      "funct": {
+        "normal": "#3A2E1F",
+        "pressed": "#2B2216",
+        "text": "#B8A88C"
+      },
+      "globe": {
+        "normal": "#8B5A2B",
+        "pressed": "#6F4722",
+        "text": "#FFFFFF"
+      },
+      "setting": {
+        "normal": "#3A2E1F",
+        "pressed": "#2B2216",
+        "text": "#B8A88C"
+      }
+    }
+  },
+  "sizes": {
+    "key_corner_radius": "10dp",
+    "key_font_size": "20sp",
+    "function_key_font_size": "18sp",
+    "dot_size": "8dp",
+    "dot_offset": "4dp",
+    "popup_button_width": "80dp",
+    "popup_button_height": "50dp",
+    "popup_button_margin": "4dp",
+    "popup_animation_duration": 200,
+    "row_padding": "2dp",
+    "key_margin": "1dp"
+  },
+  "fonts": {
+    "regular": "fonts/Europe.ttf"
+  },
+  "drawables": {
+    "shift": "ic_shift",
+    "delete": "ic_backspace",
+    "enter": "ic_return",
+    "globe": "ic_globe",
+    "mic": "ic_mic",
+    "settings": "ic_settings",
+    "emoji": "ic_smiley"
+  },
+  "sounds": {
+    "key_click": "sounds/key_click.mp3",
+    "delete_click": "sounds/delete.mp3",
+    "space_click": "sounds/space.mp3",
+    "enter_click": "sounds/enter.mp3"
+  },
+  "haptic": {
+    "key_press_duration": 5,
+    "long_press_duration": 10,
+    "enabled": true
+  }
+}

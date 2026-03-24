@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "skinName": "Vienna",
+    "version": "1.0",
+    "author": "KeebSwap"
+  },
+  "colors": {
+    "background": "#E8DECD",
+    "dot": "#8B5A2B",
+    "layout_name_bg": "#C0A080",
+    "layout_name_text": "#2C1E12",
+    "popup_bg": "#F0E8D0",
+    "popup_text": "#3E2E1F",
+    "categories": {
+      "main": {
+        "normal": "#F5F0E0",
+        "pressed": "#E0D0B0",
+        "text": "#3E2E1F"
+      },
+      "punct": {
+        "normal": "#D0C0A0",
+        "pressed": "#B8A88C",
+        "text": "#3E2E1F"
+      },
+      "funct": {
+        "normal": "#B8A88C",
+        "pressed": "#A09074",
+        "text": "#F5F0E0"
+      },
+      "globe": {
+        "normal": "#C69B6D",
+        "pressed": "#B08050",
+        "text": "#2C1E12"
+      },
+      "setting": {
+        "normal": "#B8A88C",
+        "pressed": "#A09074",
+        "text": "#F5F0E0"
+      }
+    }
+  },
+  "sizes": {
+    "key_corner_radius": "10dp",
+    "key_font_size": "20sp",
+    "function_key_font_size": "18sp",
+    "dot_size": "8dp",
+    "dot_offset": "4dp",
+    "popup_button_width": "80dp",
+    "popup_button_height": "50dp",
+    "popup_button_margin": "4dp",
+    "popup_animation_duration": 200,
+    "row_padding": "2dp",
+    "key_margin": "1dp"
+  },
+  "fonts": {
+    "regular": "fonts/Europe.ttf"
+  },
+  "drawables": {
+    "shift": "ic_shift",
+    "delete": "ic_backspace",
+    "enter": "ic_return",
+    "globe": "ic_globe",
+    "mic": "ic_mic",
+    "settings": "ic_settings",
+    "emoji": "ic_smiley"
+  },
+  "sounds": {
+    "key_click": "sounds/key_click.mp3",
+    "delete_click": "sounds/delete.mp3",
+    "space_click": "sounds/space.mp3",
+    "enter_click": "sounds/enter.mp3"
+  },
+  "haptic": {
+    "key_press_duration": 5,
+    "long_press_duration": 10,
+    "enabled": true
+  }
+}
