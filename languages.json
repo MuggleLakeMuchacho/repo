@@ -6,7 +6,7 @@
       "displayName": "Albanisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/sq.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/sq.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -16,7 +16,7 @@
       "displayName": "Bosnisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/bs.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/bs.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -26,7 +26,7 @@
       "displayName": "Bulgarisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/bg.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/bg.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -36,7 +36,7 @@
       "displayName": "Dänisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/da.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/da.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -46,7 +46,7 @@
       "displayName": "Deutsch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/de.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/de.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -56,7 +56,7 @@
       "displayName": "Dolnoserbšćina",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/dsb.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/dsb.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -66,7 +66,7 @@
       "displayName": "Eesti",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/et.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/et.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -76,7 +76,7 @@
       "displayName": "English",
       "region": "Nordamerika",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/en.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/en.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -86,7 +86,7 @@
       "displayName": "Español",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/es.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/es.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -96,7 +96,7 @@
       "displayName": "Euskara",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/eu.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/eu.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -106,7 +106,7 @@
       "displayName": "Føroyskt",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/fo.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/fo.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -116,7 +116,7 @@
       "displayName": "Français",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/fr.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/fr.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -126,7 +126,7 @@
       "displayName": "Griechisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/el.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/el.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -136,7 +136,7 @@
       "displayName": "Kroatisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/hr.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/hr.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -146,7 +146,7 @@
       "displayName": "Hornjoserbsce",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/hsb.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/hsb.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -156,7 +156,7 @@
       "displayName": "Íslenska",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/is.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/is.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -166,7 +166,7 @@
       "displayName": "Georgisch",
       "region": "Asien",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/ka.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/ka.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -176,7 +176,7 @@
       "displayName": "Lettisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/lv.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/lv.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -186,7 +186,7 @@
       "displayName": "Litauisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/lt.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/lt.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -196,7 +196,7 @@
       "displayName": "Mazedonisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/mk.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/mk.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -206,7 +206,7 @@
       "displayName": "Montenegrinisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/me.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/me.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -216,7 +216,7 @@
       "displayName": "Nederlands",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/nl.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/nl.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -226,7 +226,7 @@
       "displayName": "Norsk (Bokmål)",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/nb.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/nb.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -236,7 +236,7 @@
       "displayName": "Polski",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/pl.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/pl.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -246,7 +246,7 @@
       "displayName": "Português",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/pt.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/pt.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -256,7 +256,7 @@
       "displayName": "Rumänisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/ro.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/ro.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -266,7 +266,7 @@
       "displayName": "Russisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/ru.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/ru.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -276,7 +276,7 @@
       "displayName": "Schwedisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/sv.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/sv.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -286,7 +286,7 @@
       "displayName": "Serbisch (Latein)",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/sr.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/sr.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -296,7 +296,7 @@
       "displayName": "Serbisch (Kyrillisch)",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/sr-Cyrl.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/sr-Cyrl.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -306,7 +306,7 @@
       "displayName": "Slowakisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/sk.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/sk.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -316,7 +316,7 @@
       "displayName": "Slowenisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/sl.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/sl.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -326,7 +326,7 @@
       "displayName": "Tschechisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/cs.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/cs.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -336,7 +336,7 @@
       "displayName": "Türkisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/tr.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/tr.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -346,7 +346,7 @@
       "displayName": "Ungarisch",
       "region": "Europa",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/hu.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/hu.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -356,7 +356,7 @@
       "displayName": "Phonetics (IPA)",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://example.com/keebswap/ipa.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/ipa.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     }
