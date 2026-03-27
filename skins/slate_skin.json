@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "skinName": "Slate",
+    "version": "1.0",
+    "author": "KeebSwap"
+  },
+  "ui": {
+    "palette": {
+      "color01": "#37474F",
+      "color02": "#2C3A47",
+      "color03": "#1E2B36",
+      "color04": "#37474F",
+      "color05": "#37474F",
+      "color06": "#E0E0E0"
+    },
+    "roles": {
+      "background": "color01",
+      "headerBackground": "color02",
+      "installedBackground": "color01",
+      "remoteBackground": "color04",
+      "buttonBackground": "color05",
+      "deleteIconTint": "color06"
+    },
+    "keyRoles": {
+      "keyboardBackground": "color01",
+      "keyboardHeaderBackground": "color02",
+      "keyboardHeaderText": "color06",
+      "keyMainNormal": "color01",
+      "keyMainText": "color06",
+      "keyPunctNormal": "color02",
+      "keyPunctText": "color06",
+      "keyFunctNormal": "color03",
+      "keyFunctText": "color06",
+      "keyGlobeNormal": "color04",
+      "keyGlobeText": "color06",
+      "keySettingNormal": "color05",
+      "keySettingText": "color06",
+      "popupBackground": "color01",
+      "popupText": "color06"
+    }
+  },
+  "sizes": {
+    "key_corner_radius": "10dp",
+    "key_font_size": "20sp",
+    "function_key_font_size": "18sp",
+    "dot_size": "8dp",
+    "dot_offset": "4dp",
+    "popup_button_width": "80dp",
+    "popup_button_height": "50dp",
+    "popup_button_margin": "4dp",
+    "popup_animation_duration": 200,
+    "row_padding": "2dp",
+    "key_margin": "1dp"
+  },
+  "fonts": {
+    "regular": "fonts/Europe.ttf"
+  },
+  "drawables": {
+    "shift": "ic_shift",
+    "delete": "ic_backspace",
+    "enter": "ic_return",
+    "globe": "ic_globe",
+    "mic": "ic_mic",
+    "settings": "ic_settings",
+    "emoji": "ic_smiley"
+  },
+  "sounds": {
+    "key_click": "sounds/key_click.mp3",
+    "delete_click": "sounds/delete.mp3",
+    "space_click": "sounds/space.mp3",
+    "enter_click": "sounds/enter.mp3"
+  },
+  "haptic": {
+    "key_press_duration": 5,
+    "long_press_duration": 10,
+    "enabled": true
+  }
+}
