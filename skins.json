@@ -36,6 +36,27 @@
       "size": "1.5 KB"
     },
     {
+      "fileName": "ivy_skin.json",
+      "displayName": "Ivy",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/ivy_skin.json",
+      "size": "1.4 KB"
+    },
+    {
+      "fileName": "berry_skin.json",
+      "displayName": "Berry",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/berry_skin.json",
+      "size": "1.4 KB"
+    },
+    {
+      "fileName": "grey_skin.json",
+      "displayName": "Grey",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/grey_skin.json",
+      "size": "1.3 KB"
+    },
+    {
       "fileName": "kathmandu_skin.json",
       "displayName": "Kathmandu",
       "version": "1.0",
