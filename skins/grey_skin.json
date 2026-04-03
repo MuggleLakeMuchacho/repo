@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "skinName": "Vienna",
+    "skinName": "Grey",
     "version": "1.0",
     "author": "KeebSwap"
   },
@@ -13,7 +13,7 @@
       "color05": "#8f8f8f",
       "color06": "#333333"
     },
-"roles": {
+    "roles": {
       "background": "color03",
       "headerBackground": "color01",
       "headerText": "color06",
