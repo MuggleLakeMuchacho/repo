@@ -29,10 +29,10 @@
       "radioButtonChecked": "color04",
       "checkBoxNormal": "color06",
       "checkBoxChecked": "color04",
-	  "colorControlNormal": "color06",
-	  "colorControlActivated": "color04",
-	  "colorControlDisabled": "color02",
-	  "settingsLogoColor": "color06"
+      "colorControlNormal": "color06",
+      "colorControlActivated": "color04",
+      "colorControlDisabled": "color02",
+      "settingsLogoColor": "color06"
     },
     "keyRoles": {
       "keyboardBackground": "color03",
@@ -50,7 +50,7 @@
       "keySettingText": "color06",
       "popupBackground": "color01",
       "popupText": "color06",
-	  "logoColor": "color06"
+      "logoColor": "color06"
     }
   },
   "sizes": {
