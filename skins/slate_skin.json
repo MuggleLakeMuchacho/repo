@@ -14,30 +14,43 @@
       "color06": "#E0E0E0"
     },
     "roles": {
-      "background": "color01",
-      "headerBackground": "color05",
-      "installedBackground": "color03",
-      "remoteBackground": "color02",
+      "background": "color03",
+      "headerBackground": "color01",
+      "headerText": "color06",
+      "installedBackground": "color02",
+      "installedText": "color06",
+      "remoteBackground": "color01",
+      "remoteText": "color06",
+      "remoteTextAlpha": "0.5",
       "buttonBackground": "color04",
+      "buttonText": "color06",
       "deleteIconTint": "color06",
-      "keyMainText": "color06"
+      "radioButtonNormal": "color06",
+      "radioButtonChecked": "color04",
+      "checkBoxNormal": "color06",
+      "checkBoxChecked": "color04",
+	  "colorControlNormal": "color06",
+	  "colorControlActivated": "color04",
+	  "colorControlDisabled": "color02",
+	  "settingsLogoColor": "color06"
     },
     "keyRoles": {
-      "keyboardBackground": "color01",
-      "keyboardHeaderBackground": "color05",
+      "keyboardBackground": "color03",
+      "keyboardHeaderBackground": "color02",
       "keyboardHeaderText": "color06",
-      "keyMainNormal": "color02",
+      "keyMainNormal": "color05",
       "keyMainText": "color06",
       "keyPunctNormal": "color02",
       "keyPunctText": "color06",
-      "keyFunctNormal": "color03",
+      "keyFunctNormal": "color02",
       "keyFunctText": "color06",
       "keyGlobeNormal": "color04",
       "keyGlobeText": "color06",
       "keySettingNormal": "color05",
       "keySettingText": "color06",
       "popupBackground": "color01",
-      "popupText": "color06"
+      "popupText": "color06",
+	  "logoColor": "color06"
     }
   },
   "sizes": {

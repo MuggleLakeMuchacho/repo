@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "skinName": "Kathmandu",
+    "skinName": "Vienna",
     "version": "1.0",
     "author": "KeebSwap"
   },
   "ui": {
     "palette": {
-      "color01": "#B58B6D",
-      "color02": "#997c5c",
-      "color03": "#7A634F",
-      "color04": "#C45A3A",
-      "color05": "#c29870",
-      "color06": "#daf1ed"
+      "color01": "#dcefe3",
+      "color02": "#b5d095",
+      "color03": "#c4e2bb",
+      "color04": "#a4ccbc",
+      "color05": "#85d67a",
+      "color06": "#503216"
     },
     "roles": {
       "background": "color03",
@@ -29,10 +29,10 @@
       "radioButtonChecked": "color04",
       "checkBoxNormal": "color06",
       "checkBoxChecked": "color04",
-	  "colorControlNormal": "color06",
-	  "colorControlActivated": "color04",
-	  "colorControlDisabled": "color02",
-	  "settingsLogoColor": "color06"
+      "colorControlNormal": "color06",
+      "colorControlActivated": "color04",
+      "colorControlDisabled": "color02",
+      "settingsLogoColor": "color06"
     },
     "keyRoles": {
       "keyboardBackground": "color03",
@@ -50,11 +50,11 @@
       "keySettingText": "color06",
       "popupBackground": "color01",
       "popupText": "color06",
-	  "logoColor": "color06"
+      "logoColor": "color06"
     }
   },
   "sizes": {
-    "key_corner_radius": "12dp",
+    "key_corner_radius": "10dp",
     "key_font_size": "20sp",
     "function_key_font_size": "18sp",
     "dot_size": "8dp",

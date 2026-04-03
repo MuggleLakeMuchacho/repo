@@ -1,7 +1,7 @@
 {
   "metadata": {
     "skinName": "Mahagony",
-    "version": "1.0",
+    "version": "1.1",
     "author": "KeebSwap"
   },
   "ui": {
@@ -16,11 +16,23 @@
     "roles": {
       "background": "color03",
       "headerBackground": "color01",
+      "headerText": "color06",
       "installedBackground": "color02",
+      "installedText": "color06",
       "remoteBackground": "color01",
+      "remoteText": "color06",
+      "remoteTextAlpha": "0.5",
       "buttonBackground": "color04",
+      "buttonText": "color06",
       "deleteIconTint": "color06",
-      "keyMainText": "color06"
+      "radioButtonNormal": "color06",
+      "radioButtonChecked": "color04",
+      "checkBoxNormal": "color06",
+      "checkBoxChecked": "color04",
+	  "colorControlNormal": "color06",
+	  "colorControlActivated": "color04",
+	  "colorControlDisabled": "color02",
+	  "settingsLogoColor": "color06"
     },
     "keyRoles": {
       "keyboardBackground": "color03",
@@ -37,7 +49,8 @@
       "keySettingNormal": "color05",
       "keySettingText": "color06",
       "popupBackground": "color01",
-      "popupText": "color06"
+      "popupText": "color06",
+	  "logoColor": "color06"
     }
   },
   "sizes": {
