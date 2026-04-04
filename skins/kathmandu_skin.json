@@ -1,7 +1,7 @@
 {
   "metadata": {
     "skinName": "Kathmandu",
-    "version": "1.0",
+    "version": "1.1",
     "author": "KeebSwap"
   },
   "ui": {
@@ -21,18 +21,18 @@
       "installedText": "color06",
       "remoteBackground": "color01",
       "remoteText": "color06",
-      "remoteTextAlpha": "0.5",
       "buttonBackground": "color04",
       "buttonText": "color06",
       "deleteIconTint": "color06",
-      "radioButtonNormal": "color06",
-      "radioButtonChecked": "color04",
-      "checkBoxNormal": "color06",
-      "checkBoxChecked": "color04",
-	  "colorControlNormal": "color06",
-	  "colorControlActivated": "color04",
-	  "colorControlDisabled": "color02",
-	  "settingsLogoColor": "color06"
+      "creditsBackground": "#00000080",
+      "creditsText": "color06",
+      "checkboxNormalBg": "color06",
+      "checkboxCheckedBg": "color04",
+      "checkboxMark": "#FFFFFF",
+      "radioNormalBg": "color06",
+      "radioCheckedBg": "color04",
+      "radioMark": "#FFFFFF",
+      "settingsLogoColor": "color06"
     },
     "keyRoles": {
       "keyboardBackground": "color03",
@@ -50,7 +50,7 @@
       "keySettingText": "color06",
       "popupBackground": "color01",
       "popupText": "color06",
-	  "logoColor": "color06"
+      "logoColor": "color06"
     }
   },
   "sizes": {
@@ -66,9 +66,7 @@
     "row_padding": "2dp",
     "key_margin": "1dp"
   },
-  "fonts": {
-    "regular": "fonts/Europe.ttf"
-  },
+  "fonts": { "regular": "fonts/Europe.ttf" },
   "drawables": {
     "shift": "ic_shift",
     "delete": "ic_backspace",

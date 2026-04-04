@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "skinName": "Tactical",
+    "version": "1.1",
+    "author": "KeebSwap"
+  },
+  "ui": {
+    "palette": {
+      "color01": "#383838",
+      "color02": "#341818",
+      "color03": "#a16363",
+      "color04": "#74461a",
+      "color05": "#655f58",
+      "color06": "#ffae00"
+    },
+    "roles": {
+      "background": "color02",
+      "headerBackground": "color05",
+      "headerText": "color06",
+      "installedBackground": "color01",
+      "installedText": "color06",
+      "remoteBackground": "color01",
+      "remoteText": "color06",
+      "buttonBackground": "color06",
+      "buttonText": "color02",
+      "deleteIconTint": "color06",
+      "colorControlNormal": "color02",
+      "colorControlActivated": "color05",
+      "colorControlDisabled": "color02",
+      "settingsLogoColor": "color06",
+      "creditsBackground": "#00000080",
+      "creditsText": "color06",
+      "checkboxNormalBg": "color02",
+      "checkboxCheckedBg": "color05",
+      "checkboxMark": "#FFFFFF",
+      "radioNormalBg": "color02",
+      "radioCheckedBg": "color05",
+      "radioMark": "#FFFFFF"
+    },
+    "keyRoles": {
+      "keyboardBackground": "color02",
+      "keyboardHeaderBackground": "color01",
+      "keyboardHeaderText": "color06",
+      "keyMainNormal": "color05",
+      "keyMainText": "color06",
+      "keyPunctNormal": "color01",
+      "keyPunctText": "color06",
+      "keyFunctNormal": "color01",
+      "keyFunctText": "color06",
+      "keyGlobeNormal": "color03",
+      "keyGlobeText": "color06",
+      "keySettingNormal": "color05",
+      "keySettingText": "color06",
+      "popupBackground": "color01",
+      "popupText": "color06",
+      "logoColor": "color06"
+    }
+  },
+  "sizes": {},
+  "fonts": {},
+  "drawables": {},
+  "sounds": {},
+  "haptic": {}
+}
