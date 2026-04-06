@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "skinName": "Benutzerdefiniert",
+    "skinName": "Tactical",
     "version": "1.0",
     "author": "KeebSwap"
   },
@@ -14,51 +14,81 @@
       "color06": "#f0e6d0"
     },
     "roles": {
-      "background": "#3a2e1f",
-      "headerBackground": "#7a6d5c",
-      "headerText": "#f0e6d0",
-      "installedBackground": "#5a4a35",
-      "installedText": "#f0e6d0",
-      "remoteBackground": "#7a6d5c",
-      "remoteText": "#f0e6d0",
-      "buttonBackground": "#8b5a2b",
-      "buttonText": "#f0e6d0",
-      "deleteIconTint": "#f0e6d0",
-      "creditsBackground": "#5a4a35",
-      "creditsText": "#f0e6d0",
-      "checkboxNormalBg": "#f0e6d0",
-      "checkboxCheckedBg": "#7a6d5c",
-      "checkboxMark": "#f0e6d0",
-      "radioNormalBg": "#3a2e1f",
-      "radioCheckedBg": "#3a2e1f",
-      "radioMark": "#7a6d5c",
-	  "statusMessageBackground": "color03",
-	  "statusMessageText": "color06",
-	  "creditsBackground": "color01",
-	  "creditsText": "color06"
+      "background": "color03",
+      "headerBackground": "color01",
+      "headerText": "color06",
+      "installedBackground": "color02",
+      "installedText": "color06",
+      "remoteBackground": "color01",
+      "remoteText": "color06",
+      "buttonBackground": "color04",
+      "buttonText": "color06",
+      "deleteIconTint": "color06",
+      "creditsBackground": "color01",
+      "creditsText": "color06",
+      "checkboxNormalBg": "color06",
+      "checkboxCheckedBg": "color01",
+      "checkboxMark": "color02",
+      "radioNormalBg": "color03",
+      "radioCheckedBg": "color03",
+      "radioMark": "color01",
+      "settingsLogoColor": "color06",
+      "statusMessageBackground": "color03",
+      "statusMessageText": "color06"
     },
     "keyRoles": {
-      "keyboardBackground": "#3a2e1f",
-      "keyboardHeaderBackground": "#5a4a35",
-      "keyboardHeaderText": "#f0e6d0",
-      "keyMainNormal": "#765b3d",
-      "keyMainText": "#f0e6d0",
-      "keyPunctNormal": "#5a4a35",
-      "keyPunctText": "#f0e6d0",
-      "keyFunctNormal": "#5a4a35",
-      "keyFunctText": "#f0e6d0",
-      "keyGlobeNormal": "#8b5a2b",
-      "keyGlobeText": "#f0e6d0",
-      "keySettingNormal": "#765b3d",
-      "keySettingText": "#f0e6d0",
-      "popupBackground": "#7a6d5c",
-      "popupText": "#f0e6d0",
-      "logoColor": "#f0e6d0"
+      "keyboardBackground": "color03",
+      "keyboardHeaderBackground": "color02",
+      "keyboardHeaderText": "color06",
+      "keyMainNormal": "color05",
+      "keyMainText": "color06",
+      "keyPunctNormal": "color02",
+      "keyPunctText": "color06",
+      "keyFunctNormal": "color02",
+      "keyFunctText": "color06",
+      "keyGlobeNormal": "color04",
+      "keyGlobeText": "color06",
+      "keySettingNormal": "color05",
+      "keySettingText": "color06",
+      "popupBackground": "color01",
+      "popupText": "color06",
+      "logoColor": "color06"
     }
   },
-  "sizes": {},
-  "fonts": {},
-  "drawables": {},
-  "sounds": {},
-  "haptic": {}
+  "sizes": {
+    "key_corner_radius": "10dp",
+    "key_font_size": "20sp",
+    "function_key_font_size": "18sp",
+    "dot_size": "8dp",
+    "dot_offset": "4dp",
+    "popup_button_width": "80dp",
+    "popup_button_height": "50dp",
+    "popup_button_margin": "4dp",
+    "popup_animation_duration": 200,
+    "row_padding": "2dp",
+    "key_margin": "1dp"
+  },
+  "fonts": {
+    "regular": "fonts/Europe.ttf"
+  },
+  "drawables": {
+    "shift": "ic_shift",
+    "delete": "ic_backspace",
+    "enter": "ic_return",
+    "globe": "ic_globe",
+    "mic": "ic_mic",
+    "settings": "ic_settings",
+    "emoji": "ic_smiley"
+  },
+  "sounds": {
+    "key_click": "sounds/key_click.mp3",
+    "delete_click": "sounds/delete.mp3",
+    "space_click": "sounds/space.mp3",
+    "enter_click": "sounds/enter.mp3"
+  },
+  "haptic": {
+    "key_press_duration": 5,
+    "long_press_duration": 10,
+    "enabled": true
+  }
 }
