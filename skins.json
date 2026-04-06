@@ -99,6 +99,15 @@
       "primaryColor": "#2c4c3b",
       "secondaryColor": "#a3c9a8"
     },
+	{
+      "fileName": "november_skin.json",
+      "displayName": "November",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/november_skin.json",
+      "size": "1.4 KB",
+      "primaryColor": "#495B58",
+      "secondaryColor": "#B5A9C6"
+    },
     {
       "fileName": "berry_skin.json",
       "displayName": "Berry",
