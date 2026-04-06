@@ -72,7 +72,7 @@
       "primaryColor": "#A41E54",
       "secondaryColor": "#7EC4E2"
     },
-		{
+	{
       "fileName": "irish_skin.json",
       "displayName": "Irish",
       "version": "1.0",
@@ -80,6 +80,15 @@
       "size": "1.4 KB",
       "primaryColor": "#7BC40E",
       "secondaryColor": "#7D9B81"
+    },
+	{
+      "fileName": "rusty_skin.json",
+      "displayName": "Rusty",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/rusty_skin.json",
+      "size": "1.4 KB",
+      "primaryColor": "#C0B4B4",
+      "secondaryColor": "#B19595"
     },
     {
       "fileName": "ivy_skin.json",
