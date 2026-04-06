@@ -5,98 +5,126 @@
       "displayName": "Default",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/default_skin.json",
-      "size": "1.2 KB"
+      "size": "1.2 KB",
+      "primaryColor": "#3a3a3a",
+      "secondaryColor": "#ffaa00"
     },
     {
       "fileName": "bright_skin.json",
       "displayName": "Bright",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/bright_skin.json",
-      "size": "1.4 KB"
+      "size": "1.4 KB",
+      "primaryColor": "#ffffff",
+      "secondaryColor": "#f0f0f0"
     },
     {
       "fileName": "champagne_skin.json",
       "displayName": "Champagne",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/champagne_skin.json",
-      "size": "1.3 KB"
+      "size": "1.3 KB",
+      "primaryColor": "#f7e7ce",
+      "secondaryColor": "#d4af37"
     },
     {
       "fileName": "creamy_skin.json",
       "displayName": "Creamy",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/creamy_skin.json",
-      "size": "1.3 KB"
+      "size": "1.3 KB",
+      "primaryColor": "#fff8e7",
+      "secondaryColor": "#e8d5b5"
     },
     {
       "fileName": "flora_skin.json",
       "displayName": "Flora",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/flora_skin.json",
-      "size": "1.5 KB"
+      "size": "1.5 KB",
+      "primaryColor": "#2e5c4e",
+      "secondaryColor": "#8bc34a"
     },
     {
       "fileName": "ivy_skin.json",
       "displayName": "Ivy",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/ivy_skin.json",
-      "size": "1.4 KB"
+      "size": "1.4 KB",
+      "primaryColor": "#2c4c3b",
+      "secondaryColor": "#a3c9a8"
     },
     {
       "fileName": "berry_skin.json",
       "displayName": "Berry",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/berry_skin.json",
-      "size": "1.4 KB"
+      "size": "1.4 KB",
+      "primaryColor": "#6b2e5c",
+      "secondaryColor": "#e91e63"
     },
     {
       "fileName": "grey_skin.json",
       "displayName": "Grey",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/grey_skin.json",
-      "size": "1.3 KB"
+      "size": "1.3 KB",
+      "primaryColor": "#555555",
+      "secondaryColor": "#aaaaaa"
     },
     {
       "fileName": "kathmandu_skin.json",
       "displayName": "Kathmandu",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/kathmandu_skin.json",
-      "size": "1.5 KB"
+      "size": "1.5 KB",
+      "primaryColor": "#c0392b",
+      "secondaryColor": "#e67e22"
     },
     {
       "fileName": "mahagony_skin.json",
       "displayName": "Mahagony",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/mahagony_skin.json",
-      "size": "1.4 KB"
+      "size": "1.4 KB",
+      "primaryColor": "#8b5a2b",
+      "secondaryColor": "#d2b48c"
     },
     {
       "fileName": "marble_skin.json",
       "displayName": "Marble",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/marble_skin.json",
-      "size": "1.4 KB"
+      "size": "1.4 KB",
+      "primaryColor": "#e0e0e0",
+      "secondaryColor": "#bdbdbd"
     },
     {
       "fileName": "slate_skin.json",
       "displayName": "Slate",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/slate_skin.json",
-      "size": "1.3 KB"
+      "size": "1.3 KB",
+      "primaryColor": "#2c3e50",
+      "secondaryColor": "#7f8c8d"
     },
     {
       "fileName": "vienna_skin.json",
       "displayName": "Vienna",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/vienna_skin.json",
-      "size": "1.4 KB"
+      "size": "1.4 KB",
+      "primaryColor": "#9e7b5e",
+      "secondaryColor": "#e0b88a"
     },
-	{
+    {
       "fileName": "tactical_skin.json",
       "displayName": "Tactical",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/tactical_skin.json",
-      "size": "1.4 KB"
+      "size": "1.4 KB",
+      "primaryColor": "#4d5d53",
+      "secondaryColor": "#9aa83b"
     }
   ]
 }
