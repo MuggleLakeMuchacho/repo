@@ -15,9 +15,9 @@
     },
     "roles": {
       "background": "color03",
-      "headerBackground": "color01",
+      "headerBackground": "color02",
       "headerText": "color06",
-      "installedBackground": "color02",
+      "installedBackground": "color05",
       "installedText": "color06",
       "remoteBackground": "color01",
       "remoteText": "color06",
