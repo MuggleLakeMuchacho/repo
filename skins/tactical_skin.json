@@ -6,12 +6,12 @@
   },
   "ui": {
     "palette": {
-      "color01": "#7a6d5c",
-      "color02": "#5a4a35",
-      "color03": "#3a2e1f",
-      "color04": "#8b5a2b",
-      "color05": "#765b3d",
-      "color06": "#f0e6d0"
+      "color01": "#383838",
+      "color02": "#341818",
+      "color03": "#a16363",
+      "color04": "#74461a",
+      "color05": "#655f58",
+      "color06": "#ffae00"
     },
     "roles": {
       "background": "color03",
