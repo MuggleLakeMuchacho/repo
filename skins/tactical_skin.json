@@ -37,8 +37,8 @@
       "statusMessageText": "color06"
     },
     "keyRoles": {
-      "keyboardBackground": "color03",
-      "keyboardHeaderBackground": "color02",
+      "keyboardBackground": "color02",
+      "keyboardHeaderBackground": "color01",
       "keyboardHeaderText": "color06",
       "keyMainNormal": "color05",
       "keyMainText": "color06",
