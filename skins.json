@@ -46,6 +46,15 @@
       "secondaryColor": "#8bc34a"
     },
     {
+      "fileName": "maritime_skin.json",
+      "displayName": "Maritime",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/maritime_skin.json",
+      "size": "1.4 KB",
+      "primaryColor": "#446A6F",
+      "secondaryColor": "#266287"
+    },
+    {
       "fileName": "ivy_skin.json",
       "displayName": "Ivy",
       "version": "1.0",
