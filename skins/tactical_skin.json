@@ -14,8 +14,8 @@
       "color06": "#ffae00"
     },
     "roles": {
-      "background": "color03",
-      "headerBackground": "color02",
+      "background": "color02",
+      "headerBackground": "color03",
       "headerText": "color06",
       "installedBackground": "color05",
       "installedText": "color06",
