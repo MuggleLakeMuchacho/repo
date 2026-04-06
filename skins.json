@@ -46,13 +46,40 @@
       "secondaryColor": "#8bc34a"
     },
     {
-      "fileName": "mein4_skin.json",
-      "displayName": "BullShit",
+      "fileName": "lilac_skin.json",
+      "displayName": "Lilac",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/mein4_skin.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/lilac_skin.json",
       "size": "1.4 KB",
-      "primaryColor": "#2A2A2A",
-      "secondaryColor": "#AF4DFF"
+      "primaryColor": "#CCC0D3",
+      "secondaryColor": "#CFA8FF"
+    },
+	{
+      "fileName": "maritime_skin.json",
+      "displayName": "Maritime",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/maritime_skin.json",
+      "size": "1.4 KB",
+      "primaryColor": "#446A6F",
+      "secondaryColor": "#266287"
+    },
+	{
+      "fileName": "funbox_skin.json",
+      "displayName": "Funbox",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/funbox_skin.json",
+      "size": "1.4 KB",
+      "primaryColor": "#A41E54",
+      "secondaryColor": "#7EC4E2"
+    },
+		{
+      "fileName": "irish_skin.json",
+      "displayName": "Irish",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/irish_skin.json",
+      "size": "1.4 KB",
+      "primaryColor": "#7BC40E",
+      "secondaryColor": "#7D9B81"
     },
     {
       "fileName": "ivy_skin.json",
