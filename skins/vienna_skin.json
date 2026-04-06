@@ -32,7 +32,11 @@
       "radioNormalBg": "color06",
       "radioCheckedBg": "color04",
       "radioMark": "color01",
-      "settingsLogoColor": "color06"
+      "settingsLogoColor": "color06",
+	  "statusMessageBackground": "color03",
+	  "statusMessageText": "color06",
+	  "creditsBackground": "color01",
+	  "creditsText": "color06"
     },
     "keyRoles": {
       "keyboardBackground": "color03",
