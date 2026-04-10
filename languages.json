@@ -91,16 +91,16 @@
       "fontId": "Europe"
     },
 	{
-  "fileName": "de_translit_test.json",
+  "fileName": "tl.json",
   "languageCode": "tl",
   "displayName": "Test",
   "region": "Europa",
   "version": "1.0",
-  "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/de_translit_test.json",
+  "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/tl.json",
   "size": "1.2 KB",
   "fontId": "Europe",
   "inputMethod": "transliteration",
-  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/de_transliteration.json",
+  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/tl_transliteration.json",
   "modes": ["direct", "transliteration"]
 },
     {
