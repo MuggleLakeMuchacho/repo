@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "languageCode": "tl",
-    "languageName": "Test",
+    "languageCode": "de",
+    "languageName": "Deutsch (Test Translit)",
     "speechLocale": "de-DE",
     "physicalLayout": "standard",
     "version": "1.0",
     "region": "Europa",
     "inputMethod": "transliteration",
-    "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/de_transliteration.json",
+    "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/de_transliteration.json",
     "modes": ["direct", "transliteration"]
   },
   "layout": {
@@ -23,5 +23,5 @@
     "num_amp": "&", "num_hash": "#", "num_at": "@", "num_quote": "\"", "num_degree": "°",
     "num_percent": "%", "num_greater": ">", "num_exclam": "!", "num_question": "?",
     "comma": ",", "period": ".", "at": "@"
-  },
+  }
 }
