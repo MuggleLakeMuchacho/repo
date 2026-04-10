@@ -23,5 +23,6 @@
     "num_amp": "&", "num_hash": "#", "num_at": "@", "num_quote": "\"", "num_degree": "°",
     "num_percent": "%", "num_greater": ">", "num_exclam": "!", "num_question": "?",
     "comma": ",", "period": ".", "at": "@"
-  }
+  },
+  "longpress": {}
 }
