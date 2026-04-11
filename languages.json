@@ -116,7 +116,7 @@
   "inputMethod": "transliteration",
   "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/am_transliteration.json",
   "modes": ["direct", "transliteration"]
-}
+},
     {
       "fileName": "eu.json",
       "languageCode": "eu",
