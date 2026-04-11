@@ -95,12 +95,25 @@
   "languageCode": "tl",
   "displayName": "Test",
   "region": "Europa",
-  "version": "1.1",
+  "version": "1.0",
   "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/tl.json",
   "size": "1.2 KB",
   "fontId": "Europe",
   "inputMethod": "transliteration",
   "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/tl_transliteration.json",
+  "modes": ["direct", "transliteration"]
+},
+	{
+  "fileName": "am.json",
+  "languageCode": "am",
+  "displayName": "Test",
+  "region": "Afrika",
+  "version": "1.0",
+  "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/am.json",
+  "size": "1.2 KB",
+  "fontId": "Africa",
+  "inputMethod": "transliteration",
+  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/am_transliteration.json",
   "modes": ["direct", "transliteration"]
 },
     {
