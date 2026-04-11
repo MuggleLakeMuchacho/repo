@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "languageCode": "am",
+    "languageName": "አማርኛ",
+    "speechLocale": "am-ET",
+    "physicalLayout": "standard",
+    "version": "1.0",
+    "region": "Afrika",
+    "inputMethod": "transliteration",
+    "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/am_transliteration.json",
+    "modes": ["direct", "transliteration"]
+  },
+  "layout": {
+    "q": "q", "w": "w", "e": "e", "r": "r", "t": "t", "y": "y", "u": "u", "i": "i", "o": "o", "p": "p",
+    "a": "a", "s": "s", "d": "d", "f": "f", "g": "g", "h": "h", "j": "j", "k": "k", "l": "l",
+    "z": "z", "x": "x", "c": "c", "v": "v", "b": "b", "n": "n", "m": "m"
+  },
+  "numbers_layout": {},
+  "longpress": {}
+}
