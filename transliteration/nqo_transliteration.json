@@ -1,5 +1,7 @@
 {
   "languageCode": "nqo",
+  "blockKeys": [],
+  "doubleLetterAction": "allow",
   "rules": {
     "ba": "ߓߊ", "be": "ߓߋ", "bi": "ߓߌ", "bo": "ߓߏ", "bu": "ߓߎ",
     "bɛ": "ߓߍ", "bɔ": "ߓߐ",

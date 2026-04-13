@@ -1,5 +1,7 @@
 {
   "languageCode": "vai",
+  "blockKeys": [],
+  "doubleLetterAction": "allow",
   "rules": {
     "nga": "ꕟ",
     "nyã": "ꖻ",

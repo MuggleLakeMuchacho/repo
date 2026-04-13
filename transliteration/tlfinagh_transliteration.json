@@ -1,5 +1,7 @@
 {
   "languageCode": "ber",
+  "blockKeys": [],
+  "doubleLetterAction": "allow",
   "rules": {
     "tt": "ⵟ",
     "gh": "ⵖ",
