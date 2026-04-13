@@ -118,6 +118,32 @@
   "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/am_transliteration.json",
   "modes": ["direct", "transliteration"]
 },
+{
+  "fileName": "vai.json",
+  "languageCode": "vai",
+  "displayName": "ꕙꔤ",
+  "region": "Afrika",
+  "version": "1.0",
+  "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/vai.json",
+  "size": "2.5 KB",
+  "fontId": "Africa",
+  "inputMethod": "transliteration",
+  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/vai_transliteration.json",
+  "modes": ["direct", "transliteration"]
+},
+{
+  "fileName": "tifinagh.json",
+  "languageCode": "ber",
+  "displayName": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
+  "region": "Afrika",
+  "version": "1.0",
+  "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/tifinagh.json",
+  "size": "2.5 KB",
+  "fontId": "Africa",
+  "inputMethod": "transliteration",
+  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/tifinagh_transliteration.json",
+  "modes": ["direct", "transliteration"]
+},
     {
       "fileName": "eu.json",
       "languageCode": "eu",
