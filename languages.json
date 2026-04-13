@@ -132,16 +132,16 @@
   "modes": ["direct", "transliteration"]
 },
 {
-  "fileName": "tifinagh.json",
+  "fileName": "ber.json",
   "languageCode": "ber",
   "displayName": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
   "region": "Afrika",
   "version": "1.0",
-  "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/tifinagh.json",
+  "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/ber.json",
   "size": "2.5 KB",
   "fontId": "Africa",
   "inputMethod": "transliteration",
-  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/tifinagh_transliteration.json",
+  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/ber_transliteration.json",
   "modes": ["direct", "transliteration"]
 },
     {
