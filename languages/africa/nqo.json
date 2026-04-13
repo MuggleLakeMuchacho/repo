@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "languageCode": "am",
-    "languageName": "አማርኛ",
-    "speechLocale": "am-ET",
+    "languageCode": "nqo",
+    "languageName": "ߒߞߏ",
+    "speechLocale": "nqo",
     "physicalLayout": "standard",
-    "version": "1.2",
+    "version": "1.0",
     "region": "Afrika",
     "inputMethod": "transliteration",
-    "fontId": "Africa"
+    "fontId": "NKo"
   },
   "layout": {
     "q": "q", "w": "w", "e": "e", "r": "r", "t": "t", "y": "y", "u": "u", "i": "i", "o": "o", "p": "p",
@@ -19,15 +19,7 @@
     "num_1": "1", "num_2": "2", "num_3": "3", "num_4": "4", "num_5": "5",
     "num_6": "6", "num_7": "7", "num_8": "8", "num_9": "9", "num_0": "0"
   },
-  "longpress": {
-    "s": ["S"],
-    "n": ["N"],
-    "t": ["T"],
-    "c": ["C"],
-    ".": [".."],
-    ",": [",,"],
-    ":": ["::"]
-  },
-  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/am_transliteration.json",
+  "longpress": {},
+  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/nqo_transliteration.json",
   "modes": ["direct", "transliteration"]
 }
