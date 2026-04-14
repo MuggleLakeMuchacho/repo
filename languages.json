@@ -91,20 +91,6 @@
       "fontId": "Europe"
     },
 	{
-  "fileName": "nqo.json",
-  "languageCode": "nqo",
-  "displayName": "ߒߞߏ",
-  "region": "Afrika",
-  "version": "1.0",
-  "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/nqo.json",
-  "size": "2.5 KB",
-  "fontId": "NKo",
-  "fontUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/fonts/Africa.ttf",
-  "inputMethod": "transliteration",
-  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/nqo_transliteration.json",
-  "modes": ["direct", "transliteration"]
-},
-{
   "fileName": "am.json",
   "languageCode": "am",
   "displayName": "አማርኛ",
@@ -113,9 +99,21 @@
   "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/am.json",
   "size": "2.5 KB",
   "fontId": "Africa",
-  "fontUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/Africa.ttf",
   "inputMethod": "transliteration",
-  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/am_transliteration.json",
+  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/am_transliteration.json",
+  "modes": ["direct", "transliteration"]
+},
+{
+  "fileName": "nqo.json",
+  "languageCode": "nqo",
+  "displayName": "ߒߞߏ",
+  "region": "Afrika",
+  "version": "1.0",
+  "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/nqo.json",
+  "size": "2.5 KB",
+  "fontId": "Africa",
+  "inputMethod": "transliteration",
+  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/nqo_transliteration.json",
   "modes": ["direct", "transliteration"]
 },
 {
@@ -128,7 +126,7 @@
   "size": "2.5 KB",
   "fontId": "Africa",
   "inputMethod": "transliteration",
-  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/vai_transliteration.json",
+  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/vai_transliteration.json",
   "modes": ["direct", "transliteration"]
 },
 {
@@ -141,9 +139,9 @@
   "size": "2.5 KB",
   "fontId": "Africa",
   "inputMethod": "transliteration",
-  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/ber_transliteration.json",
+  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/ber_transliteration.json",
   "modes": ["direct", "transliteration"]
-},
+}
     {
       "fileName": "eu.json",
       "languageCode": "eu",
