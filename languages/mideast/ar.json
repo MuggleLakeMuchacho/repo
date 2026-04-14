@@ -50,5 +50,5 @@
     "و": ["وَ", "وِ", "وُ"],
     "ي": ["يَ", "يِ", "يُ"]
   },
-  "modes": ["direct"]
+  "modes": ["direct", "transliteration"]
 }
