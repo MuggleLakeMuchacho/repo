@@ -146,8 +146,6 @@
   "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/africa/ber_transliteration.json",
   "modes": ["direct", "transliteration"]
 },
-	  {
-  "languages": [
     {
       "fileName": "ar.json",
       "languageCode": "ar",
@@ -174,9 +172,7 @@
       "inputMethod": "transliteration",
       "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/mideast/ar_arabizi_transliteration.json",
       "modes": ["direct", "transliteration"]
-    }
-  ]
-}
+},
     {
       "fileName": "eu.json",
       "languageCode": "eu",
