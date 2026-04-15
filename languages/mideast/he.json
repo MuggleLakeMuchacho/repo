@@ -6,7 +6,7 @@
     "physicalLayout": "standard",
     "version": "1.0",
     "region": "Naher Osten",
-    "inputMethod": "transliteration",
+    "inputMethod": "direct",
     "fontId": "Mideast",
     "isRTL": true
   },
