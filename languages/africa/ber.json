@@ -4,22 +4,121 @@
     "languageName": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
     "speechLocale": "ber",
     "physicalLayout": "standard",
-    "version": "1.0",
+    "version": "1.1",
     "region": "Afrika",
     "inputMethod": "transliteration",
     "fontId": "Africa"
   },
+  "modes": [
+    "transliteration"
+  ],
   "layout": {
-    "q": "q", "w": "w", "e": "e", "r": "r", "t": "t", "y": "y", "u": "u", "i": "i", "o": "o", "p": "p",
-    "a": "a", "s": "s", "d": "d", "f": "f", "g": "g", "h": "h", "j": "j", "k": "k", "l": "l",
-    "z": "z", "x": "x", "c": "c", "v": "v", "b": "b", "n": "n", "m": "m",
-    "at": "@", "comma": ",", "period": "."
+    "q": "q",
+    "w": "w",
+    "e": "e",
+    "r": "r",
+    "t": "t",
+    "y": "y",
+    "u": "u",
+    "i": "i",
+    "o": "o",
+    "p": "p",
+    "a": "a",
+    "s": "s",
+    "d": "d",
+    "f": "f",
+    "g": "g",
+    "h": "h",
+    "j": "j",
+    "k": "k",
+    "l": "l",
+    "z": "z",
+    "x": "x",
+    "c": "c",
+    "v": "v",
+    "b": "b",
+    "n": "n",
+    "m": "m",
+    "at": "@",
+    "comma": ",",
+    "period": "."
   },
   "numbers_layout": {
-    "num_1": "1", "num_2": "2", "num_3": "3", "num_4": "4", "num_5": "5",
-    "num_6": "6", "num_7": "7", "num_8": "8", "num_9": "9", "num_0": "0"
+    "num_1": "1",
+    "num_2": "2",
+    "num_3": "3",
+    "num_4": "4",
+    "num_5": "5",
+    "num_6": "6",
+    "num_7": "7",
+    "num_8": "8",
+    "num_9": "9",
+    "num_0": "0"
   },
-  "longpress": {},
-  "transliterationUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/transliteration/tifinagh_transliteration.json",
-  "modes": ["direct", "transliteration"]
+  "longpress": {
+    "d": [
+      "ḍ"
+    ],
+    "h": [
+      "ḥ"
+    ],
+    "s": [
+      "ṣ"
+    ],
+    "t": [
+      "ṭ"
+    ],
+    "z": [
+      "ẓ"
+    ],
+    "g": [
+      "ɣ"
+    ],
+    "e": [
+      "ɛ"
+    ]
+  },
+  "transliterationRules": {
+    "languageCode": "ber",
+    "blockKeys": [],
+    "doubleLetterAction": "allow",
+    "isRTL": false,
+    "shiftInTR": false,
+    "rules": {
+      "tt": "ⵟ",
+      "gh": "ⵖ",
+      "kh": "ⵅ",
+      "sh": "ⵛ",
+      "dh": "ⴹ",
+      "th": "ⵝ",
+      "zh": "ⵥ",
+      "aa": "ⵄ",
+      "ee": "ⴻ",
+      "ii": "ⵉ",
+      "uu": "ⵓ",
+      "a": "ⴰ",
+      "b": "ⴱ",
+      "c": "ⵛ",
+      "d": "ⴷ",
+      "e": "ⴻ",
+      "f": "ⴼ",
+      "g": "ⴳ",
+      "h": "ⵀ",
+      "i": "ⵉ",
+      "j": "ⵊ",
+      "k": "ⴽ",
+      "l": "ⵍ",
+      "m": "ⵎ",
+      "n": "ⵏ",
+      "q": "ⵇ",
+      "r": "ⵔ",
+      "s": "ⵙ",
+      "t": "ⵜ",
+      "u": "ⵓ",
+      "w": "ⵡ",
+      "x": "ⵅ",
+      "y": "ⵢ",
+      "z": "ⵣ"
+    }
+  }
 }
