@@ -4,7 +4,7 @@
     "languageName": "ߒߞߏ",
     "speechLocale": "nqo",
     "physicalLayout": "standard",
-    "version": "1.1",
+    "version": "1.2",
     "region": "Afrika",
     "inputMethod": "transliteration",
     "fontId": "Africa"
@@ -205,7 +205,13 @@
       "s": "ߛ",
       "t": "ߕ",
       "w": "ߥ",
-      "y": "ߦ"
+      "y": "ߦ",
+      "I": "ߌ",
+      "A": "ߊ",
+      "N": "ߒ",
+      "E": "ߍ",
+      "O": "ߐ",
+      "U": "ߎ"
     }
   }
 }
