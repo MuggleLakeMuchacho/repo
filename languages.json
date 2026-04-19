@@ -41,16 +41,6 @@
       "fontId": "Northindia"
     },
     {
-      "fileName": "hi.json",
-      "languageCode": "hi",
-      "displayName": "Hindi",
-      "region": "Nordindien",
-      "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/northindia/hi.json",
-      "size": "1.2 KB",
-      "fontId": "Northindia"
-    },
-    {
       "fileName": "oceanic.json",
       "languageCode": "oceanic",
       "displayName": "Albanisch",
