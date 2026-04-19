@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "languageCode": "oceanic",
+    "languageName": "Oceanic",
+    "speechLocale": "en-AU",
+    "physicalLayout": "standard",
+    "version": "0.1",
+    "region": "Ozeanien",
+    "inputMethod": "transliteration",
+    "fontId": "Asia"
+  },
+  "modes": ["transliteration"],
+  "layout": {
+    "q": "q", "w": "w", "e": "e", "r": "r", "t": "t", "y": "y", "u": "u", "i": "i", "o": "o", "p": "p",
+    "a": "a", "s": "s", "d": "d", "f": "f", "g": "g", "h": "h", "j": "j", "k": "k", "l": "l",
+    "z": "z", "x": "x", "c": "c", "v": "v", "b": "b", "n": "n", "m": "m",
+    "at": "@", "comma": ",", "period": "."
+  },
+  "numbers_layout": {
+    "num_1": "1", "num_2": "2", "num_3": "3", "num_4": "4", "num_5": "5",
+    "num_6": "6", "num_7": "7", "num_8": "8", "num_9": "9", "num_0": "0"
+  },
+  "longpress": {},
+  "transliterationRules": {
+    "languageCode": "oceanic",
+    "blockKeys": [],
+    "doubleLetterAction": "allow",
+    "isRTL": false,
+    "shiftInTR": false,
+    "rules": {}
+  }
+}
