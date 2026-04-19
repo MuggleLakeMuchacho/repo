@@ -1,14 +1,64 @@
 {
   "languages": [
-    {
-      "fileName": "sq.json",
-      "languageCode": "sq",
-      "displayName": "Albanisch",
-      "region": "Europa",
+  {
+      "fileName": "ja.json",
+      "languageCode": "ja",
+      "displayName": "Japanisch",
+      "region": "Asien",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/sq.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/asia/ja.json",
       "size": "1.2 KB",
-      "fontId": "Europe"
+      "fontId": "Asia"
+    },
+	{
+      "fileName": "ko.json",
+      "languageCode": "ko",
+      "displayName": "Koreanisch",
+      "region": "Asien",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/asia/ko.json",
+      "size": "1.2 KB",
+      "fontId": "Asia"
+    },
+	{
+      "fileName": "ta.json",
+      "languageCode": "ta",
+      "displayName": "Tamil",
+      "region": "Südindien",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/southindia/ta.json",
+      "size": "1.2 KB",
+      "fontId": "Southindia"
+    },
+	{
+      "fileName": "hi.json",
+      "languageCode": "hi",
+      "displayName": "Hindi",
+      "region": "Nordindien",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/northindia/hi.json",
+      "size": "1.2 KB",
+      "fontId": "Northindia"
+    },
+	{
+      "fileName": "hi.json",
+      "languageCode": "hi",
+      "displayName": "Hindi",
+      "region": "Nordindien",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/northindia/hi.json",
+      "size": "1.2 KB",
+      "fontId": "Northindia"
+    },
+    {
+      "fileName": "oceanic.json",
+      "languageCode": "oceanic",
+      "displayName": "Albanisch",
+      "region": "Ozenanien",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/oceania/oceanic.json",
+      "size": "1.2 KB",
+      "fontId": "Oceania"
     },
     {
       "fileName": "bs.json",
