@@ -1,6 +1,6 @@
 {
   "languages": [
-  {
+    {
       "fileName": "ja.json",
       "languageCode": "ja",
       "displayName": "Japanisch",
@@ -10,7 +10,7 @@
       "size": "1.2 KB",
       "fontId": "Asia"
     },
-	{
+    {
       "fileName": "ko.json",
       "languageCode": "ko",
       "displayName": "Koreanisch",
@@ -20,7 +20,7 @@
       "size": "1.2 KB",
       "fontId": "Asia"
     },
-	{
+    {
       "fileName": "ta.json",
       "languageCode": "ta",
       "displayName": "Tamil",
@@ -30,7 +30,7 @@
       "size": "1.2 KB",
       "fontId": "Southindia"
     },
-	{
+    {
       "fileName": "hi.json",
       "languageCode": "hi",
       "displayName": "Hindi",
@@ -40,7 +40,7 @@
       "size": "1.2 KB",
       "fontId": "Northindia"
     },
-	{
+    {
       "fileName": "hi.json",
       "languageCode": "hi",
       "displayName": "Hindi",
@@ -209,7 +209,7 @@
       "inputMethod": "transliteration",
       "modes": ["direct", "transliteration"]
     },
-	    {
+    {
       "fileName": "he.json",
       "languageCode": "he",
       "displayName": "עברית",
@@ -298,7 +298,7 @@
       "displayName": "Georgisch",
       "region": "Asien",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/ka.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/asia/ka.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -488,7 +488,7 @@
       "displayName": "Phonetics (IPA)",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/ipa.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/ipa.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
@@ -498,7 +498,7 @@
       "displayName": "Mathematics",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/math.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/math.json",
       "size": "1.5 KB",
       "fontId": "Europe"
     },
@@ -508,7 +508,7 @@
       "displayName": "Chemistry",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/chem.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/chem.json",
       "size": "1.5 KB",
       "fontId": "Europe"
     },
@@ -518,7 +518,7 @@
       "displayName": "Physics",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/phys.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/phys.json",
       "size": "1.5 KB",
       "fontId": "Europe"
     },
@@ -528,7 +528,7 @@
       "displayName": "Science",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/sci.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/sci.json",
       "size": "2.5 KB",
       "fontId": "Europe"
     },
@@ -538,7 +538,7 @@
       "displayName": "Symbols",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/sym.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/sym.json",
       "size": "2.5 KB",
       "fontId": "Europe"
     },
@@ -548,7 +548,7 @@
       "displayName": "Poweruser",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/power.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/power.json",
       "size": "2.5 KB",
       "fontId": "Europe"
     },
@@ -558,7 +558,7 @@
       "displayName": "Electrotech",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/etech.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/etech.json",
       "size": "2.5 KB",
       "fontId": "Europe"
     },
@@ -568,7 +568,7 @@
       "displayName": "Coding",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/code.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/code.json",
       "size": "2.5 KB",
       "fontId": "Europe"
     },
@@ -578,7 +578,7 @@
       "displayName": "Music",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/music.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/music.json",
       "size": "1.5 KB",
       "fontId": "Europe"
     },
@@ -588,7 +588,7 @@
       "displayName": "Typography",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/typo.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/typo.json",
       "size": "1.5 KB",
       "fontId": "Europe"
     },
@@ -598,7 +598,7 @@
       "displayName": "Ἑλληνικὴ (Polytonisch)",
       "region": "Others",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/grc.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/others/grc.json",
       "size": "2.5 KB",
       "fontId": "Europe"
     },
@@ -609,16 +609,6 @@
       "region": "Europa",
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/se.json",
-      "size": "1.5 KB",
-      "fontId": "Europe"
-    },
-    {
-      "fileName": "fo.json",
-      "languageCode": "fo",
-      "displayName": "Føroyskt",
-      "region": "Europa",
-      "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/fo.json",
       "size": "1.5 KB",
       "fontId": "Europe"
     }
