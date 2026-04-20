@@ -114,9 +114,9 @@
       "fileName": "en.json",
       "languageCode": "en",
       "displayName": "English",
-      "region": "Nordamerika",
+      "region": "Amerika",
       "version": "1.0",
-      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/europe/en.json",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/languages/america/en.json",
       "size": "1.2 KB",
       "fontId": "Europe"
     },
