@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "skinName": "Maritime",
+    "version": "1.0",
+    "author": "KeebSwap"
+  },
+  "ui": {
+    "palette": {
+      "color01": "#266287",
+      "color02": "#354f5a",
+      "color03": "#1e3835",
+      "color04": "#446a6f",
+      "color05": "#466481",
+      "color06": "#d6fff3"
+    },
+        "roles": {
+      "background": "color03",
+      "headerBackground": "color04",
+      "headerText": "color06",
+      "sectionTitleText": "color06",
+      "installedBackground": "color05",
+      "installedText": "color06",
+      "remoteBackground": "color02",
+      "remoteText": "color06",
+      "buttonBackground": "color01",
+      "buttonText": "color06",
+      "installButtonBackground": "color01",
+      "installButtonText": "color06",
+      "deleteIconTint": "color06",
+      "creditsBackground": "color03",
+      "creditsText": "color06",
+      "statusMessageNormalBackground": "#446a6f",
+      "statusMessageErrorBackground": "#266287",
+      "statusMessageText": "#ffffff",
+      "settingsLogoColor": "color06",
+      "checkboxNormalBg": "color03",
+      "checkboxCheckedBg": "color03",
+      "radioNormalBg": "color06",
+      "radioCheckedBg": "color03"
+    },
+    "keyRoles": {
+      "keyboardBackground": "color03",
+      "keyboardHeaderBackground": "color02",
+      "keyboardHeaderText": "color06",
+      "keyMainNormal": "color05",
+      "keyMainText": "color06",
+      "keyPunctNormal": "color02",
+      "keyFunctNormal": "color02",
+      "keySettingNormal": "color04",
+      "keySettingText": "color06",
+      "keyGlobeNormal": "color01",
+      "keyGlobeText": "color06",
+      "popupBackground": "color02",
+      "popupText": "color06",
+      "logoColor": "color06"
+    }
+  },
+  "sizes": {
+    "key_corner_radius": "10dp",
+    "key_font_size": "20sp",
+    "function_key_font_size": "18sp",
+    "dot_size": "8dp",
+    "dot_offset": "4dp",
+    "popup_button_width": "80dp",
+    "popup_button_height": "50dp",
+    "popup_button_margin": "4dp",
+    "popup_animation_duration": 200,
+    "row_padding": "2dp",
+    "key_margin": "1dp"
+  },
+  "fonts": {
+    "regular": "fonts/Europe.ttf"
+  },
+  "drawables": {
+    "shift": "ic_shift",
+    "delete": "ic_backspace",
+    "enter": "ic_return",
+    "globe": "ic_globe",
+    "mic": "ic_mic",
+    "settings": "ic_settings",
+    "emoji": "ic_smiley"
+  },
+  "sounds": {
+    "key_click": "sounds/key_click.mp3",
+    "delete_click": "sounds/delete.mp3",
+    "space_click": "sounds/space.mp3",
+    "enter_click": "sounds/enter.mp3"
+  },
+  "haptic": {
+    "key_press_duration": 5,
+    "long_press_duration": 10,
+    "enabled": true
+  }
+}
