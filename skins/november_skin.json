@@ -13,7 +13,7 @@
       "color05": "#462a2a",
       "color06": "#b5a9c6"
     },
-    "roles": {
+    "uiRoles": {
       "background": "color03",
       "headerBackground": "color02",
       "headerText": "color05",
@@ -53,9 +53,10 @@
       "popupBackground": "color01",
       "popupText": "color06",
       "logoColor": "color06"
-    }
+    },
+    "themeOverrides": {}
   },
-  "sizes": {
+    "sizes": {
     "key_corner_radius": "10dp",
     "key_font_size": "20sp",
     "function_key_font_size": "18sp",
