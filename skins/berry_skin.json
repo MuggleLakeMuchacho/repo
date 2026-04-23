@@ -29,7 +29,7 @@
       "installButtonBackground": "color04",
       "installButtonText": "color06",
       "deleteIconTint": "color06",
-      "creditsBackground": ""color01",
+      "creditsBackground": "color01",
       "creditsText": "color06",
       "statusBackground": "color02",
       "statusText": "color06",
