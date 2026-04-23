@@ -52,6 +52,19 @@
       "popupText": "color06",
       "logoColor": "color06"
     },
+    "mapRoles": {
+      "ocean": "color04",
+      "africa": "color05",
+      "america": "color05",
+      "asia": "color02",
+      "europe": "color05",
+      "mideast": "color02",
+      "australia": "color01",
+      "southindia": "color02",
+      "japan": "color01",
+      "korea": "color05",
+      "northindia": "color05"
+    },
     "themeOverrides": {}
   },
     "sizes": {
