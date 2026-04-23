@@ -1,7 +1,7 @@
 {
   "metadata": {
     "skinName": "Bright",
-    "version": "1.1",
+    "version": "1.0",
     "author": "KeebSwap"
   },
   "ui": {
@@ -15,28 +15,30 @@
     },
     "uiRoles": {
       "background": "color03",
-      "headerBackground": "color01",
-      "headerText": "color06",
+      "settingsHeaderBackground": "color01",
+      "settingsHeaderText": "color06",
+      "sectionTitleText": "color06",
       "installedBackground": "color02",
       "installedText": "color06",
       "remoteBackground": "color01",
       "remoteText": "color06",
       "buttonBackground": "color04",
       "buttonText": "color06",
+      "settingsButtonBackground": "color04",
+      "settingsButtonText": "color06",
+      "installButtonBackground": "color04",
+      "installButtonText": "color06",
       "deleteIconTint": "color06",
-      "creditsBackground": "#00000080",
+      "creditsBackground": "color01",
       "creditsText": "color06",
+      "statusBackground": "color02",
+      "statusText": "color06",
+      "settingsLogoColor": "color06",
       "checkboxNormalBg": "color06",
       "checkboxCheckedBg": "color04",
-      "checkboxMark": "#FFFFFF",
       "radioNormalBg": "color06",
       "radioCheckedBg": "color04",
-      "radioMark": "#FFFFFF",
-      "settingsLogoColor": "color06",
-	  "statusMessageBackground": "color03",
-	  "statusMessageText": "color06",
-	  "creditsBackground": "color01",
-	  "creditsText": "color06"
+      "colorControlDisabled": "color02"
     },
     "keyRoles": {
       "keyboardBackground": "color03",
@@ -45,7 +47,9 @@
       "keyMainNormal": "color05",
       "keyMainText": "color06",
       "keyPunctNormal": "color02",
+      "keyPunctText": "color06",
       "keyFunctNormal": "color02",
+      "keyFunctText": "color06",
       "keyGlobeNormal": "color04",
       "keyGlobeText": "color06",
       "keySettingNormal": "color05",
@@ -69,7 +73,7 @@
     },
     "themeOverrides": {}
   },
-    "sizes": {
+  "sizes": {
     "key_corner_radius": "10dp",
     "key_font_size": "20sp",
     "function_key_font_size": "18sp",
@@ -82,7 +86,9 @@
     "row_padding": "2dp",
     "key_margin": "1dp"
   },
-  "fonts": { "regular": "fonts/Europe.ttf" },
+  "fonts": {
+    "regular": "fonts/Europe.ttf"
+  },
   "drawables": {
     "shift": "ic_shift",
     "delete": "ic_backspace",
