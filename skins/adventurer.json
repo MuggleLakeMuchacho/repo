@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "skinName": "Benutzerdefiniert",
+    "version": "1.0",
+    "author": "KeebSwap"
+  },
+  "ui": {
+    "palette": {
+      "color01": "#688274",
+      "color02": "#ffc64d",
+      "color03": "#b0b0b0",
+      "color04": "#298c99",
+      "color05": "#aa8d7d",
+      "color06": "#ffe8db"
+    },
+    "uiRoles": {
+      "background": "color03",
+      "settingsHeaderBackground": "color04",
+      "settingsHeaderText": "color06",
+      "sectionTitleText": "color06",
+      "installedBackground": "color05",
+      "installedText": "color06",
+      "remoteBackground": "color01",
+      "remoteText": "color06",
+      "buttonBackground": "color02",
+      "buttonText": "color01",
+      "settingsButtonBackground": "color04",
+      "settingsButtonText": "color06",
+      "installButtonBackground": "color02",
+      "installButtonText": "color04",
+      "deleteIconTint": "color03",
+      "creditsBackground": "color03",
+      "creditsText": "color06",
+      "statusBackground": "color05",
+      "statusText": "color06",
+      "settingsLogoColor": "color04",
+      "checkboxNormalBg": "color03",
+      "checkboxCheckedBg": "color04",
+      "radioNormalBg": "color03",
+      "radioCheckedBg": "color04",
+      "colorControlDisabled": "color02"
+    },
+    "keyRoles": {
+      "keyboardBackground": "color03",
+      "keyboardHeaderBackground": "color01",
+      "keyboardHeaderText": "color06",
+      "keyMainNormal": "color05",
+      "keyMainText": "color06",
+      "keyPunctNormal": "color05",
+      "keyPunctText": "color06",
+      "keyFunctNormal": "color01",
+      "keyFunctText": "color06",
+      "keyGlobeNormal": "color02",
+      "keyGlobeText": "color06",
+      "keySettingNormal": "color04",
+      "keySettingText": "color06",
+      "popupBackground": "color04",
+      "popupText": "color06",
+      "logoColor": "color03"
+    },
+    "mapRoles": {
+      "ocean": "color01",
+      "africa": "color02",
+      "america": "color03",
+      "asia": "color04",
+      "europe": "color05",
+      "mideast": "color06",
+      "australia": "color06",
+      "southindia": "color02",
+      "japan": "color03",
+      "korea": "color04",
+      "northindia": "color05"
+    },
+    "themeOverrides": {}
+  },
+  "sizes": {
+    "key_corner_radius": "10dp",
+    "key_font_size": "20sp",
+    "function_key_font_size": "18sp",
+    "dot_size": "8dp",
+    "dot_offset": "4dp",
+    "popup_button_width": "80dp",
+    "popup_button_height": "50dp",
+    "popup_button_margin": "4dp",
+    "popup_animation_duration": 200,
+    "row_padding": "2dp",
+    "key_margin": "1dp"
+  },
+  "fonts": {
+    "regular": "fonts/Europe.ttf"
+  },
+  "drawables": {
+    "shift": "ic_shift",
+    "delete": "ic_backspace",
+    "enter": "ic_return",
+    "globe": "ic_globe",
+    "mic": "ic_mic",
+    "settings": "ic_settings",
+    "emoji": "ic_smiley"
+  },
+  "sounds": {
+    "key_click": "sounds/key_click.mp3",
+    "delete_click": "sounds/delete.mp3",
+    "space_click": "sounds/space.mp3",
+    "enter_click": "sounds/enter.mp3"
+  },
+  "haptic": {
+    "key_press_duration": 5,
+    "long_press_duration": 10,
+    "enabled": true
+  }
+}
