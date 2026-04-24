@@ -10,6 +10,15 @@
       "secondaryColor": "#ffaa00"
     },
     {
+      "fileName": "adventurer_skin.json",
+      "displayName": "Adventurer",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/adventurer_skin.json",
+      "size": "1.4 KB",
+      "primaryColor": "#298C99",
+      "secondaryColor": "#FFC640"
+    },
+    {
       "fileName": "bright_skin.json",
       "displayName": "Bright",
       "version": "1.0",
@@ -81,7 +90,7 @@
       "primaryColor": "#CCC0D3",
       "secondaryColor": "#CFA8FF"
     },
-	{
+    {
       "fileName": "maritime_skin.json",
       "displayName": "Maritime",
       "version": "1.0",
@@ -90,7 +99,7 @@
       "primaryColor": "#446A6F",
       "secondaryColor": "#266287"
     },
-	{
+    {
       "fileName": "funbox_skin.json",
       "displayName": "Funbox",
       "version": "1.0",
@@ -99,7 +108,7 @@
       "primaryColor": "#A41E54",
       "secondaryColor": "#7EC4E2"
     },
-	{
+    {
       "fileName": "irish_skin.json",
       "displayName": "Irish",
       "version": "1.0",
@@ -108,7 +117,7 @@
       "primaryColor": "#7BC40E",
       "secondaryColor": "#7D9B81"
     },
-	{
+    {
       "fileName": "rusty_skin.json",
       "displayName": "Rusty",
       "version": "1.0",
@@ -126,7 +135,7 @@
       "primaryColor": "#2c4c3b",
       "secondaryColor": "#a3c9a8"
     },
-	{
+    {
       "fileName": "november_skin.json",
       "displayName": "November",
       "version": "1.0",
