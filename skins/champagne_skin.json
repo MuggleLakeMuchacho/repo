@@ -1,51 +1,55 @@
 {
   "metadata": {
     "skinName": "Champagne",
-    "version": "1.1",
+    "version": "1.0",
     "author": "KeebSwap"
   },
   "ui": {
     "palette": {
-      "color01": "#F5E0C9",
-      "color02": "#d8d9ba",
-      "color03": "#D4AF37",
-      "color04": "#ddcb97",
-      "color05": "#d0b69a",
+      "color01": "#ffe4c7",
+      "color02": "#f4efd7",
+      "color03": "#c2c2c2",
+      "color04": "#fde7a5",
+      "color05": "#ead9c8",
       "color06": "#502b0c"
     },
     "uiRoles": {
       "background": "color03",
-      "headerBackground": "color01",
-      "headerText": "color06",
+      "settingsHeaderBackground": "color01",
+      "settingsHeaderText": "color06",
+      "sectionTitleText": "color06",
       "installedBackground": "color02",
       "installedText": "color06",
       "remoteBackground": "color01",
       "remoteText": "color06",
       "buttonBackground": "color04",
       "buttonText": "color06",
+      "settingsButtonBackground": "color04",
+      "settingsButtonText": "color06",
+      "installButtonBackground": "color04",
+      "installButtonText": "color06",
       "deleteIconTint": "color06",
-      "creditsBackground": "#00000080",
+      "creditsBackground": "color01",
       "creditsText": "color06",
+      "statusBackground": "color02",
+      "statusText": "color06",
+      "settingsLogoColor": "color01",
       "checkboxNormalBg": "color06",
       "checkboxCheckedBg": "color04",
-      "checkboxMark": "#FFFFFF",
       "radioNormalBg": "color06",
       "radioCheckedBg": "color04",
-      "radioMark": "#FFFFFF",
-      "settingsLogoColor": "color06",
-	  "statusMessageBackground": "color03",
-	  "statusMessageText": "color06",
-	  "creditsBackground": "color01",
-	  "creditsText": "color06"
+      "colorControlDisabled": "color02"
     },
     "keyRoles": {
       "keyboardBackground": "color03",
-      "keyboardHeaderBackground": "color02",
-      "keyboardHeaderText": "color06",
+      "keyboardHeaderBackground": "color01",
+      "keyboardHeaderText": "color03",
       "keyMainNormal": "color05",
       "keyMainText": "color06",
-      "keyPunctNormal": "color02",
+      "keyPunctNormal": "color01",
+      "keyPunctText": "color06",
       "keyFunctNormal": "color02",
+      "keyFunctText": "color06",
       "keyGlobeNormal": "color04",
       "keyGlobeText": "color06",
       "keySettingNormal": "color05",
@@ -55,21 +59,21 @@
       "logoColor": "color06"
     },
     "mapRoles": {
-      "ocean": "color04",
-      "africa": "color05",
+      "ocean": "color06",
+      "africa": "color03",
       "america": "color05",
       "asia": "color02",
       "europe": "color05",
       "mideast": "color02",
-      "australia": "color01",
+      "australia": "color05",
       "southindia": "color02",
       "japan": "color01",
       "korea": "color05",
-      "northindia": "color05"
+      "northindia": "color03"
     },
     "themeOverrides": {}
   },
-    "sizes": {
+  "sizes": {
     "key_corner_radius": "10dp",
     "key_font_size": "20sp",
     "function_key_font_size": "18sp",
@@ -82,7 +86,9 @@
     "row_padding": "2dp",
     "key_margin": "1dp"
   },
-  "fonts": { "regular": "fonts/Europe.ttf" },
+  "fonts": {
+    "regular": "fonts/Europe.ttf"
+  },
   "drawables": {
     "shift": "ic_shift",
     "delete": "ic_backspace",
