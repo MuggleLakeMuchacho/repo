@@ -28,6 +28,15 @@
       "secondaryColor": "#f0f0f0"
     },
     {
+      "fileName": "babajaga_skin.json",
+      "displayName": "Babajaga",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/babajaga_skin.json",
+      "size": "1.4 KB",
+      "primaryColor": "#4E96F4",
+      "secondaryColor": "#9B7878"
+    },
+    {
       "fileName": "granite_skin.json",
       "displayName": "Granite",
       "version": "1.0",
