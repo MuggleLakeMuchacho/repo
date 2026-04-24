@@ -19,6 +19,33 @@
       "secondaryColor": "#f0f0f0"
     },
     {
+      "fileName": "granite_skin.json",
+      "displayName": "Granite",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/granite_skin.json",
+      "size": "1.4 KB",
+      "primaryColor": "#C0B4B4",
+      "secondaryColor": "#B5B5B5"
+    },
+    {
+      "fileName": "Sneaker_skin.json",
+      "displayName": "Sneaker",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/sneaker_skin.json",
+      "size": "1.4 KB",
+      "primaryColor": "#97B0E2",
+      "secondaryColor": "#F4B58A"
+    },
+    {
+      "fileName": "leviathan_skin.json",
+      "displayName": "Leviathan",
+      "version": "1.0",
+      "downloadUrl": "https://raw.githubusercontent.com/MuggleLakeMuchacho/repo/main/skins/leviathan_skin.json",
+      "size": "1.4 KB",
+      "primaryColor": "#004347",
+      "secondaryColor": "#787878"
+    },
+    {
       "fileName": "champagne_skin.json",
       "displayName": "Champagne",
       "version": "1.0",
